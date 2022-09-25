@@ -11,6 +11,6 @@ bot.on('message', (message) => {
         //console.log(message)
         //console.log(message.from.id);
         //middleware 
-        bot.sendMessage(chat_id, 'Hello from orhLuLu');
+        bot.sendMessage(chat_id, 'Hello from Amaline');
 
 });
