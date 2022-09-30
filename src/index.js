@@ -11,6 +11,6 @@ bot.on('message', (message) => {
         //console.log(message)
         //console.log(message.from.id);
         //middleware 
-        bot.sendMessage(chat_id, 'Hello from OrhLulu');
+        bot.sendMessage(chat_id, 'Its our last class together. Its been an honour! Batch 8 rocks on');
 
 });
